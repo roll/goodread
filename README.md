@@ -88,7 +88,7 @@ Exception: field.cast_value('2') != 4
  ❌  tableschema-py: 4/5
 ```
 
-Under the good `goodread` parses a markdown document looking for code blocks itself to test. It doesn't split every individual code block so there are no limitation for target language usage. Also it preserves a scope between different code blocks allowing to use all variables declared above. For languages like JavaScript `goodread` handles `async/await` to provide ability of writing documentation without function wrappers.
+Under the hood `goodread` parses a markdown document looking for code blocks itself to test. It doesn't split every individual code block so there are no limitation for target language usage. Also it preserves a scope between different code blocks allowing to use all variables declared above. For languages like JavaScript `goodread` handles `async/await` to provide ability of writing documentation without function wrappers.
 
 ### Configuring goodread.yml
 
