@@ -52,7 +52,7 @@ $ composer require goodread/goodread # PHP
 With `goodread` you just write your documentation as usual. You could start enabling `goodread` testing gragually from zero to full test coverage:
 - adding `goodread` to your code block marker to enable code running:
 
-![](https://i.imgur.com/orTqjwK.png)
+![](https://i.imgur.com/nXVWQua.png)
 
 - adding an inline comment to provide an assertion:
 
