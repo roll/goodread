@@ -51,8 +51,11 @@ $ composer require goodread/goodread # PHP
 
 With `goodread` you just write your documentation as usual. You could start enabling `goodread` testing gragually from zero to full test coverage:
 - adding `goodread` to your code block marker to enable code running:
+
 ![](https://i.imgur.com/orTqjwK.png)
+
 - adding an inline comment to provide an assertion:
+
 ![](https://i.imgur.com/OfdFwFT.png)
 
 That's it. These code blocks will be run and tested against provided assertions. Use `python/javascript/ruby/php` for codeblocks and corresponding comment syntax for assertions.
