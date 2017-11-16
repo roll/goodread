@@ -4,6 +4,8 @@
 
 Test runner for README.md. Support for Python/JavaScript/Ruby/PHP code blocks. Integration with hackmd.io.
 
+Doctest for markdown with comment-based assertions. Python/JavaScript/Ruby/PHP test runners and hackmd.io integration.
+
 ## Motivation
 
 Documentation should contain correct and up-to-date code examples. It's vital almost for every programming project. `goodread` address this problem validating documentation code blocks. Think Python's `doctest` for markdown. It's also suitable for:
@@ -17,7 +19,7 @@ Documentation should contain correct and up-to-date code examples. It's vital al
 
 - run tests/examples inside you markdown documentation and validate it
 - support for Python, JavaScript, Ruby and PHP code blocks
-- support for assertions using comments syntax
+- support for assertions using native comments syntax
 - integration with hackmd.io and other editors
 
 ---
