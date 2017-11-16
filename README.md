@@ -2,8 +2,6 @@
 
 [![Version](https://img.shields.io/badge/Version-v0.3-orange.svg)](https://github.com/goodread/goodread#changelog)
 
-Test runner for README.md. Support for Python/JavaScript/Ruby/PHP code blocks. Integration with hackmd.io.
-
 Doctest for markdown with comment-based assertions. Python/JavaScript/Ruby/PHP test runners and hackmd.io integration.
 
 ## Motivation
