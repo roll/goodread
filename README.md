@@ -226,4 +226,3 @@ Here described only breaking and the most important changes. The full changelog 
 ### v0.3
 
 Proof of concept version of the project.
-
